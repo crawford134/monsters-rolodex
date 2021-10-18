@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# View the final product from this project (deployed with github pages) 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+(https://crawford134.github.io/monsters-rolodex/).
 
 ## Available Scripts
 
